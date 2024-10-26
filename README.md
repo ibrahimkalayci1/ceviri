@@ -1,10 +1,28 @@
-# React + Vite
+<h1>Toolkit Translate with React - Tailwind - Redux Toolkit-Vite </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<hr>
 
-Currently, two official plugins are available:
+<h2>Technologies Used</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# ceviri
-# ceviri
+<p>
+
+# Libraries
+
+</br></br>
+
+- react-toolkit
+  </br>
+- react-select
+  </br>
+- axios
+  </br>
+- tailwind
+  </br>
+- react-redux
+  </br>
+
+ 
+  </br> Responsive </p>
+
+![Translate](https://github.com/user-attachments/assets/c62a64b0-eedf-4dfc-bd14-6510804ed91f)
+
